@@ -28,7 +28,7 @@ body {
 
 p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    /* /* font-size */ */: large;
+   
     color: rgb(10, 1, 18);
 
 }
@@ -121,4 +121,9 @@ h2,h3,h4 {
     color: aliceblue(36, 50, 63);
     
 
+}
+
+h5 {
+    color: aliceblue;
+    text-align: center;
 }
